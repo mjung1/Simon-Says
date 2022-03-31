@@ -4,9 +4,9 @@
 
 Submitted by: **Matthew Jung**
 
-Time spent: **#** hours spent in total
+Time spent: **5.5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://able-pond-meteorology.glitch.me/)
 
 ## Required Functionality
 
