@@ -6,7 +6,7 @@ Submitted by: **Matthew Jung**
 
 Time spent: **5.5** hours spent in total
 
-Link to project: (https://able-pond-meteorology.glitch.me/)
+Link to project: (https://light-and-sound-game-matt-jung.glitch.me/)
 
 ## Required Functionality
 
