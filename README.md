@@ -71,7 +71,7 @@ The pattern will be randomized and will vary between games
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/24c7317b8f8440478b638fc30b76861e)
 
 
 ## License
