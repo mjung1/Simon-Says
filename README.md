@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/JoMuSjrpIB.gif)
+![Press the start button to initiate the game. If you repeat the pattern back correctly, the pattern will increase by 1](http://g.recordit.co/JoMuSjrpIB.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
