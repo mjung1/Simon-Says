@@ -38,11 +38,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Press the start button to initiate the game. If you repeat the pattern back correctly, the pattern will increase by 1](http://g.recordit.co/JoMuSjrpIB.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+Press the start button to initiate a game. If you correctly recall the pattern, the pattern will increase by 1.
+![](http://g.recordit.co/JoMuSjrpIB.gif)
+Pressing the stop button will stop the game.
+![](http://g.recordit.co/fIppVGG2PO.gif)
+If the pattern is not correctly recalled, the game will stop and a pop-up alert will state that you have lost the game.
+![](http://g.recordit.co/D8x74TfINv.gif)
+If a pattern of length 8 is reached and recalled correctly, the game will stop and a pop-up alert will state that you have won the game.
+![](http://g.recordit.co/wrB3L29bc1.gif)
+The pattern will be randomized and will vary between games
+![](http://g.recordit.co/w5Tpa5Tp3i.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
