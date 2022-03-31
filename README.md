@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Matthew Jung**
 
 Time spent: **#** hours spent in total
 
@@ -52,13 +52,13 @@ The pattern will be randomized and will vary between games
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I utilized stack overflow for guidance on how to randomize the game pattern in JavaScript (have only used a handful of times), learning how to create an array of a desired length, with a random number chosen from a specified range.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[The biggest challenge I encountered in creating this submission was trying to implement the randomization of the game pattern. The initial prework provided a walkthrough for the game implementation but only for a predetermined pattern that would remain the same for each game. Since the original game of Simon Says randomized the pattern to be recalled between games, I wanted to randomize the pattern between games since it would add significant functinoality to the game. Since I have very little experience with JavaScript, my initial idea was to try to implement it in Python (since it's the language I have the most experience with) before making some changes so it would run in Javascript - I found that to be rather unsuccessful. I ultimately took the approach of just searching online how to create an array of randomized digits in JavaScript and found a post that provided guidance on how to do so. From that post, I learned how to implement an array of randomized digits in JavaScript and implemented it to fit the desired needs for the program (arr of length 8, with randomized digits chosen from 1-4 inclusive). ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
