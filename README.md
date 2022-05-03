@@ -4,7 +4,7 @@
 
 Link to project: (https://light-and-sound-game-matt-jung.glitch.me/)
 
-## Required Functionality
+## Functionality
 
 The app contains the following functionality:
 
